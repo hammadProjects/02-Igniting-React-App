@@ -12,4 +12,6 @@ I have learned about:
 - What is `node_modules`? Is it a good idea to push that on git?
 - What is the `dist` folder?
 - What is `browserlists`? and Read about different bundlers: vite, webpack, parcel
-- Read about: `^-caret` and `~-tilde`
+- What is the difference between `^-caret vs ~-tilde`
+
+I have learned how we can ignite our React app step by step. 
