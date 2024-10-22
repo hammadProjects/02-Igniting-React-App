@@ -11,7 +11,7 @@ I have learned about:
 - What is the difference between `package.json` and `package-lock.json` files?
 - What is `node_modules`? Is it a good idea to push that on git?
 - What is the `dist` folder?
-- What is `browserlists`? and Read about different bundlers: vite, webpack, parcel
+- What is `browserlists`?
 - What is the difference between `^-caret vs ~-tilde`
 
 I have learned how we can ignite our React app step by step. 
