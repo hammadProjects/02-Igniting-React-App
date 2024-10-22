@@ -1,16 +1,16 @@
 # 02-Igniting-React-App
 I have learned about: 
 - What is `npm`?
-- What is `Parcel/Webpack`? Why do we need it?
+- What is a bundler? Why do we need parcel?
 - What is `.parcel-cache`?
 - What is `npx`?
-- What is difference between `dependencies vs devDependencies`?
+- What is difference between `dependencies and devDependencies`?
 - What is Tree Shaking?
-- What is Hot Module Replacement?
-- What is `.gitignore`? What should we add and not add into it?
-- What is the difference between `package.json` and `package-lock.json` files?
-- What is `node_modules`? Is it a good idea to push that on git?
-- What is the `dist` folder?
+- What is HMR?
+- What is `.gitignore`? What should we put into this?
+- What is the difference between `package.json and package-lock.json` files?
+- What is `node_modules`? And why should we not push this to github?
+- What is `dist` folder?
 - What is `browserlists`?
 - What is the difference between `^-caret vs ~-tilde`
 
